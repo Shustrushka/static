@@ -1,9 +1,9 @@
 [
     {
         "id": 1, 
-        "title": 'Mango  People  T-shirt', 
+        "title": "Mango  People  T-shirt", 
         "price": 100, 
-        "img": 'https://github.com/Shustrushka/static/raw/master/img/product_1.png'
+        "img": "https://github.com/Shustrushka/static/raw/master/img/product_1.png"
     },
     {
         "id": 2, 
