@@ -1,5 +1,4 @@
-[
-    {'id': 1, 'title': 'Mango  People  T-shirt', 'price': 100, 'img': 'file:///C:/Users/Nina/Documents/GitHub/shustrushka/JS_Advanced/Project/img/product_1.png'},
+[{'id': 1, 'title': 'Mango  People  T-shirt', 'price': 100, 'img': 'file:///C:/Users/Nina/Documents/GitHub/shustrushka/JS_Advanced/Project/img/product_1.png'},
     {
         'id': 2, 
         'title': 'Mango  People  T-shirt', 
