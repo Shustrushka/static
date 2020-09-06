@@ -7,49 +7,49 @@
     },
     {
         "id": 2, 
-        "title": "Mango  People  T-shirt", 
+        "title": "ZARA  People  T-shirt", 
         "price": 50, 
         "img": "https://github.com/Shustrushka/static/raw/master/img/product_2.png"
     },
     {
         "id": 3, 
-        "title": "Mango  People  T-shirt", 
+        "title": "GUCCI Jacket  T-shirt", 
         "price": 15, 
         "img": "https://github.com/Shustrushka/static/raw/master/img/product_3.png"
     },
     {
         "id": 4, 
-        "title": "Mango  People  T-shirt", 
+        "title": "Armani  People  T-shirt", 
         "price": 5, 
         "img": "https://github.com/Shustrushka/static/raw/master/img/product_4.png"
     },
     {
         "id": 5, 
-        "title": "Mango  People  T-shirt", 
+        "title": "Marc Jacobs  People  T-shirt", 
         "price": 20, 
         "img": "https://github.com/Shustrushka/static/raw/master/img/product_5.png"
     },
     {
         "id": 6, 
-        "title": "Mango  People  T-shirt", 
+        "title": "DIOR  People  T-shirt", 
         "price": 35, 
         "img": "https://github.com/Shustrushka/static/raw/master/img/product_6.png"
     },
     {
         "id": 7, 
-        "title": "Mango  People  T-shirt", 
+        "title": "Guess  People  T-shirt", 
         "price": 45, 
         "img": "https://github.com/Shustrushka/static/raw/master/img/product_7.png"
     },
     {
         "id": 8, 
-        "title": "Mango  People  T-shirt", 
+        "title": "Versaci  People  T-shirt", 
         "price": 10, 
         "img": "https://github.com/Shustrushka/static/raw/master/img/product_8.png"
     },
     {
         "id": 9, 
-        "title": "Mango  People  T-shirt", 
+        "title": "Adidas  People  T-shirt", 
         "price": 300, 
         "img": "https://github.com/Shustrushka/static/raw/master/img/product_9.png"
     }
