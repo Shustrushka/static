@@ -6,13 +6,15 @@
         "id": 2,
         "title": "Notebook",
         "price": 1000,
-        "quantity": 1
+        "quantity": 1,
+        "img": "https://via.placeholder.com/72x85"
       },
       {
         "id": 3,
         "title": "Mouse",
         "price": 15,
-        "quantity": 1
+        "quantity": 1,
+        "img": "https://via.placeholder.com/72x85"
       }
     ]
   }
