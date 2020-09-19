@@ -3,14 +3,14 @@
     "countGoods": 2,
     "contents": [
       {
-        "id": 1,
+        "id": 10,
         "title": "REBOX ZANE",
         "price": 250,
         "quantity": 1,
         "img": "https://github.com/Shustrushka/static/raw/master/img/drop-cart_1.png"
       },
       {
-        "id": 2,
+        "id": 11,
         "title": "ZANE REBOX",
         "price": 100,
         "quantity": 1,
