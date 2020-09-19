@@ -1,20 +1,20 @@
 {
-    "amount": 1015,
+    "amount": 350,
     "countGoods": 2,
     "contents": [
       {
-        "id": 2,
-        "title": "Notebook",
-        "price": 1000,
+        "id": 1,
+        "title": "REBOX ZANE",
+        "price": 250,
         "quantity": 1,
-        "img": "https://via.placeholder.com/72x85"
+        "img": "https://github.com/Shustrushka/static/raw/master/img/drop-cart_1.png"
       },
       {
-        "id": 3,
-        "title": "Mouse",
-        "price": 15,
+        "id": 2,
+        "title": "ZANE REBOX",
+        "price": 100,
         "quantity": 1,
-        "img": "https://via.placeholder.com/72x85"
+        "img": "https://github.com/Shustrushka/static/raw/master/img/drop-cart_2.png"
       }
     ]
   }
